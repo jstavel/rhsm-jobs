@@ -1,6 +1,6 @@
-# Candlepin Jenkins Job DSL
+# RHSM-QE Jenkins Job DSL
 
-This repo is for [Candlepin](https://github.com/candlepin/candlepin) Jenkins Job DSL files.
+This repo is for [rhsm-qe](https://github.com/RedHatQE/rhsm-qe) Jenkins Job DSL files.
 
 ## File structure
 
